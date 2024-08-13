@@ -1,4 +1,4 @@
-package com.learnjava.freemarker;
+package com.learnjava.freemarker.model;
 
 public class Product {
 	private String name;
