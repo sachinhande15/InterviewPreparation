@@ -1,16 +1,15 @@
 package com.learnjava.freemarker;
 
 
+import com.learnjava.freemarker.model.Product;
 import com.learnjava.freemarker.model.User;
 import freemarker.template.*;
 
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.StringWriter;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.SortedMap;
 
 public class FreeMarkerExample {
 
